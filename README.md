@@ -2,7 +2,7 @@
 
 1. **Clone o repositório**:
 ```bash
-git clone https://github.com/lima-alvaro/data_science
+git clone https://github.com/lima-alvaro/data-science
 cd data_science
 ```
 
