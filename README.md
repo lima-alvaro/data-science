@@ -22,4 +22,4 @@ pip install -r requirements.txt
 
 ## 📝 Observação
 
-Garanta que o arquivo fakeTelegram.BR_2022.csv esteja dentro da pasta data/ na raiz do projeto.
+Garanta que a pasta 'data/' exista na raiz do projeto e que o arquivo fakeTelegram.BR_2022.csv esteja dentro dela.
